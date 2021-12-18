@@ -1,0 +1,20 @@
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000001.jpg 81,363,103,385,0 252,63,308,119,0 187,141,229,183,0 291,231,375,315,0 171,291,255,375,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000002.jpg 357,182,379,204,0 74,11,116,53,0 60,200,102,242,0 245,110,301,166,0 143,87,185,129,0 167,44,195,72,0 220,310,276,366,0 279,256,391,368,0 22,257,106,341,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000003.jpg 365,165,379,179,0 195,274,217,296,0 338,76,352,90,0 369,264,411,306,9 103,107,145,149,0 0,163,56,219,0 166,201,222,257,0 103,64,145,106,0 225,97,267,139,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000004.jpg 119,294,141,316,0 139,313,195,369,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000005.jpg 285,268,341,324,0 195,10,307,122,0 176,248,288,360,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000006.jpg 284,192,326,234,0 164,336,206,378,0 329,231,357,259,0 75,326,117,368,9 0,259,84,343,0 224,30,336,142,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000007.jpg 399,251,413,265,0 285,340,327,382,0 80,234,164,318,0 67,4,179,116,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000008.jpg 35,103,57,125,9 234,386,256,408,0 279,156,301,178,0 9,50,37,78,0 122,315,164,357,0 349,208,405,264,0 4,237,46,279,0 189,152,231,194,0 262,209,346,293,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000009.jpg 6,7,28,29,0 159,242,173,256,0 359,158,373,172,0 245,25,301,81,0 218,301,260,343,0 209,243,237,271,0 173,35,215,77,0 104,215,160,271,0 250,95,278,123,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000010.jpg 153,325,195,367,0 78,94,120,136,0 226,158,338,270,0 46,263,130,347,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000011.jpg 96,13,118,35,0 36,286,58,308,0 286,170,398,282,0 204,49,288,133,9
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000012.jpg 274,305,288,319,0 43,346,57,360,0 39,71,53,85,0 232,137,260,165,0 44,13,100,69,0 291,182,319,210,0 203,60,245,102,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000013.jpg 340,268,354,282,0 37,200,59,222,0 224,136,246,158,9 110,3,166,59,0 56,241,140,325,0 262,85,346,169,0 192,304,276,388,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000014.jpg 117,76,159,118,0 116,329,158,371,0 165,229,207,271,0 290,13,402,125,0 230,178,342,290,0 102,116,186,200,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000015.jpg 345,388,367,410,0 184,77,212,105,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000016.jpg 358,8,380,30,0 137,49,165,77,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000017.jpg 177,337,191,351,0 157,234,171,248,0 344,112,400,168,0 321,7,405,91,0 72,245,156,329,0 215,179,327,291,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000018.jpg 92,310,176,394,0 0,17,112,129,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000019.jpg 42,314,64,336,0 56,49,112,105,0
+/content/gdrive/My Drive/CV projects/streetViewHouseNumbers/TensorFlow-2.x-YOLOv3-master/mnist/mnist_train/000020.jpg 282,289,296,303,0 342,376,364,398,0 365,134,379,148,0 79,55,107,83,0 252,142,364,254,0 271,249,383,361,0
