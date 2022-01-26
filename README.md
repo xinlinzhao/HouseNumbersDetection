@@ -1,4 +1,5 @@
 # HouseNumbersDetection
-This is a Tianchi competition, task is to detect house numbers from the given pictures. link: https://tianchi.aliyun.com/competition/entrance/531795/information 
-I implemented two different ways, baseline leverages image classification and improved version (which achived 77+% accuracy) leverages Yolo4 (implemented by Alexey team). 
-Baseline: it is a multi output classification problem with 11 classes in total, 0 - 9 for possible house number in each digit and 10 for empty.
+This is a Tianchi competition, to detect house numbers from the given pictures. link: https://tianchi.aliyun.com/competition/entrance/531795/information 
+1. Baseline: conver this problem to a multi-output classification problem. Take empty as number 11 since the length of house numbers are not fixed. 
+2. Transfer learning: YOLOv4, a powerful object detection method implemented by Alexey team. 
+3. Final accuracy reached 78%, ran in Google Colab. 
